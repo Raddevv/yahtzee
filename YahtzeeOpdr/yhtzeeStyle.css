@@ -1,0 +1,63 @@
+#yhtzeeBody {
+    /*width*/
+    width: 100%;
+    max-width: 100%;
+    min-width: 35%;
+    /*style*/
+    font-family: 'Gill Sans', 'Arial';
+    font-size: large;
+    font-style:normal;
+    font-weight: lighter;
+    background-color: rgb(163, 163, 163);
+    border-style: dashed;
+    border-radius: 5%;
+    border-color: rgb(200,200,200);
+    /*flex*/
+    flex: auto;
+    flex-direction:row;
+    flex-wrap:wrap;
+    flex-flow: row;
+}
+
+#yhtzeeBodyBody {
+    /*body*/
+    height: 100%;
+    min-height: 25%;
+    max-height: 100%;
+    width: 98%;
+    max-width:98%;
+    min-width:25%;
+    /*style*/
+    border: .5rem;
+    border-style:dashed;
+    border-radius: 5%;
+    box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.1);
+    background-color: rgb(53, 123, 103);
+    border-color: rgb(49, 114, 96);
+    border-bottom-color: rgb(42, 98, 82);
+}
+
+#p1 {
+    /*style*/
+    font-family: 'Gill Sans';
+    font: 'Gill Sans';
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(255,255,255);
+}
+
+#yhtzeeNaam {
+    /*style*/
+    border: 0px;
+    background:rgba(0, 0, 0, 0.1);
+    font-family: "Gill Sans MT";
+    font-style: "Gill Sans MT";
+    font-weight: 2.5px;
+    font-weight: bolder;
+    font-size: smaller;
+    color: rgb(255, 255, 255);
+    /*body*/
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
