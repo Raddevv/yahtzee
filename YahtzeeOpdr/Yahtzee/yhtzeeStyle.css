@@ -1,0 +1,83 @@
+#yhtzeeBody {
+    /*width*/
+    width: 100%;
+    max-width: 100%;
+    min-width: 35%;
+    /*style*/
+    font-family: 'Gill Sans', 'Arial';
+    font-size: large;
+    font-style:normal;
+    font-weight: lighter;
+    background-color: rgb(163, 163, 163);
+    border-style: dashed;
+    border-radius: 5%;
+    border-color: rgb(200,200,200);
+    /*flex*/
+    flex: auto;
+    flex-direction:row;
+    flex-wrap:wrap;
+    flex-flow: row;
+}
+
+#yhtzeeBodyBody {
+    /*body*/
+    height: 100%;
+    min-height: 25%;
+    max-height: 100%;
+    width: 98%;
+    max-width:98%;
+    min-width:25%;
+    /*style*/
+    border: .5rem;
+    border-style:dashed;
+    border-radius: 5%;
+    box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.1);
+}
+
+#p1 {
+    /*style*/
+    font-family: 'Gill Sans';
+    font: 'Gill Sans';
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(255,255,255);
+}
+
+#yhtzeeNaam {
+    /*style*/
+    border: 0px;
+    background-color: rgb(143, 39, 39);
+    font-family: "Gill Sans MT";
+    font-style: "Gill Sans MT";
+    font-weight: 2.5px;
+    font-weight: bolder;
+    font-size: xx-large;
+    border-radius: 2.5px;
+    border-style: groove;
+    color: rgb(255, 255, 255);
+    /*body*/
+    text-align: center;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.knop {
+    padding: 5px;
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: #000000;
+    border: 1px solid #000000;
+}
+
+table td {
+    cursor: pointer;
+    padding: 5px;
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: #000000;
+    border: 1px solid #000000;
+}
+
+table td:hover {
+    background-color: lightyellow;
+}

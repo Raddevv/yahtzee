@@ -1,0 +1,12 @@
+Versie I = klaar??
+
+
+Versie II
+
+los op: dice plaatsen, kan namelijk geen echte score plaatsen, elke beurt gebeurt er een calculatie van elke mogelijke uitkomst dus iets gaat mis
+los op: aantal rolls, waarom komt er geen verandering? (hoogst waarschijnlijk door de variable = variable;)
+los op: yahtzee stijl
+
+kan dit lukken??
+
+waarschijnlijk
